@@ -29,6 +29,7 @@ def gou_wu():
         def total_money(self):
             sum_money = 0
             for item in self.goods_list:
+                pass
 
     # 商品类
     class Goods:
